@@ -1,0 +1,3 @@
+#!/bin/bash
+DEVICE_ID="363FF1DF-5237-4DF5-9BDE-056D70274A8A"
+flutter run -d ${DEVICE_ID}
